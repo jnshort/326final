@@ -1,0 +1,10 @@
+Test 1
+total: 11821 process1: 5567 process2: 6254
+total: 102254 process1: 44508 process2: 57746
+total: 48550 process1: 23893 process2: 24657
+total: 57997 process1: 25736 process2: 32261
+total: 52763 process1: 24793 process2: 27970
+total: 721 process1: 721 process2: 0
+total: 11388 process1: 5035 process2: 6353
+total: 48077 process1: 23107 process2: 24970
+total: 53019 process1: 26499 process2: 26520
