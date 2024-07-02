@@ -1,5 +1,5 @@
-Author: Justin Short
-Class: CECS 326
+Author: Justin Short  
+Class: CECS 326  
 
 Source code is comprised of 3 test programs.  
 Source code is divided by test number into separate folders.  
