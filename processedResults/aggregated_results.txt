@@ -1,0 +1,41 @@
+Aggregated Results
+
+Test 1 Results 2-core CPU
+Min: 1.0
+Max: 124963.0
+Avg: 32792.333
+Deadlock not encountered (approximately): 11 times
+
+Test 1 Results 6-core CPU
+Min: 1.0
+Max: 562.0
+Avg: 68.7434869739479
+Deadlock not encounted: 0 times
+
+
+
+Test 2 Results 2-core CPU
+Min: 1.0
+Max: 14304.0
+Avg: 2426.172517552658
+Deadlock not encounted: 0 times
+
+Test 2 Results 6-core CPU
+Min: 1.0
+Max: 723.0
+Avg: 111.4054054054054
+Deadlock not encounted: 0 times
+
+
+
+Test 3 Results for 2-core CPU
+Min: 6.0
+Max: 169950.0
+Avg: 108376.78078078078
+Deadlock not encountered (approximately): 300 times
+
+Test 3 Results for 6-core CPU
+Min: 67.0
+Max: 157313.0
+Avg: 122067.48648648648
+Deadlock not encountered (approximately): 543 times
