@@ -5,7 +5,7 @@ Source code is comprised of 3 test programs.
 Source code is divided by test number into separate folders.  
 - each of these tests must be compiled using the -lpthread option
 - for example:
-  - gcc -lphtread <testname.c> -o <outputfile>
+  - gcc -lphtread <testname.c> -o <outputfilename>
 - since pthreads are used in the program
   - the programs will only compile/run on a linux system
 - each tests program has an associated shell script
